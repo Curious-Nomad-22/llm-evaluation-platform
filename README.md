@@ -9,7 +9,7 @@ Production-oriented LLM evaluation and benchmarking platform for comparing AI mo
 Add your deployed Streamlit link here:
 
 
-[https://your-streamlit-app-link.streamlit.app](https://llm-evaluation-platform-3fmbag2biahfcmtqyagofd.streamlit.app/)
+[[https://your-streamlit-app-link.streamlit.app](https://llm-evaluation-platform-pdnifdvy42fb9om3jcnj6u.streamlit.app/)
 
 
 ---
